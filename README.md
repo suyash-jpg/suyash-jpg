@@ -168,12 +168,11 @@ LLMs & RAG        ███████████████ 80%
 </p>
 
 ---
-
-# 🌍 3D Contribution Calendar
+# 📊 GitHub Metrics
 
 <p align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+<img src="https://raw.githubusercontent.com/suyash-jpg/suyash-jpg/main/github-metrics.svg" width="100%"/>
 
 </p>
 
