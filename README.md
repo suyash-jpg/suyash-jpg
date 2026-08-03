@@ -167,14 +167,6 @@ LLMs & RAG        ███████████████ 80%
 
 </p>
 
-# 🎵 Currently Playing
-
-<p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljmsweyt6tzfvjekckkdmrv6h4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</p>
-
 ---
 
 <div align="center">
@@ -185,10 +177,4 @@ LLMs & RAG        ███████████████ 80%
 
 </div>
 
-<div align="center">
 
-### ⭐ Building scalable software, one commit at a time.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2563eb,100:0ea5e9"/>
-
-</div>
