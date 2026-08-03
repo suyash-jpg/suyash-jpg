@@ -167,22 +167,11 @@ LLMs & RAG        ███████████████ 80%
 
 </p>
 
----
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/suyash-jpg/suyash-jpg/main/github-metrics.svg" width="100%"/>
-
-</p>
-
----
-
 # 🎵 Currently Playing
 
 <p align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljmsweyt6tzfvjekckkdmrv6h4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </p>
 
