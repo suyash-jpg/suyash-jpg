@@ -159,21 +159,43 @@ LLMs & RAG        ███████████████ 80%
 
 ---
 
-<!-- Uncomment after setting up GitHub Actions -->
-
-<!--
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/suyash-jpg/suyash-jpg/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/suyash-jpg/suyash-jpg/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
 </p>
 
-## 🌍 3D Contribution Calendar
+---
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
--->
+# 🌍 3D Contribution Calendar
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+
+</p>
 
 ---
+
+# 🎵 Currently Playing
+
+<p align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Building scalable software, one commit at a time.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2563eb,100:0ea5e9"/>
+
+</div>
 
 <div align="center">
 
