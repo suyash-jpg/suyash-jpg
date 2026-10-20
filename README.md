@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💳 Building **ZenovaPay**
+- 💳 Building **ZenovaPay and Buildora**
 - 🌱 Learning **Microservices, Kubernetes & DevOps**
 - 🤖 Exploring **LLMs & RAG**
 - 🤝 Open to collaborating on **Backend, AI & Open Source**
@@ -38,7 +38,7 @@
 
 # 🚀 Featured Projects
 
-## 💳 ZenovaPay
+## 💳 ZenovaPay(Ongoing)
 
 > A modern payment gateway inspired by Stripe, Razorpay and PayPal.
 
@@ -61,6 +61,21 @@ Developer learning platform.
 - DSA Learning
 - AI-powered Career Guidance
 
+---
+### 🏗️ Buildora *(Ongoing)*
+
+> An AI-powered platform for building full-stack web applications.
+
+- AI App Generation
+- Prompt-to-Code
+- Live Preview
+- Code Editing
+- Full Stack Development
+- Database Integration
+- Secure Authentication
+- AI-Powered Debugging
+- Application Deployment
+  
 ---
 
 # 📊 GitHub Analytics
